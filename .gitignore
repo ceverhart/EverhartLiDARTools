@@ -1,0 +1,16 @@
+# Data files (Never commit large LiDAR data)
+data/
+*.laz
+*.tif
+*.png
+*.json
+
+# Python system files
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# IDE files
+.vscode/
+.vs/
